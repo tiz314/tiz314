@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Front End Development and Java.
+
+- 📫 How to reach me: [tizianoradicchi14@gmail.com](mailto:tizianoradicchi14@gmail.com)
+
+----
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiz314&hide=stars&count_private=true&show_icons=true&theme=material-palenight" alt="tiz314's Github Stats">
+</p>
+
 <!--
 **tiz314/tiz314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
