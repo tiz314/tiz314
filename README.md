@@ -4,8 +4,6 @@
 
 - 📫 How to reach me: [tizianoradicchi14@gmail.com](mailto:tizianoradicchi14@gmail.com)
 
-![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=tiz314.tiz314)
-
 ----
 
 <p>
