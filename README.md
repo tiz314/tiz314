@@ -4,9 +4,11 @@
 
 - 📫 How to reach me: [tizianoradicchi14@gmail.com](mailto:tizianoradicchi14@gmail.com)
 
+![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=tiz314.tiz314)
+
 ----
 
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiz314&hide=stars&count_private=true&show_icons=true&theme=material-palenight" alt="tiz314's Github Stats">
 </p>
 
