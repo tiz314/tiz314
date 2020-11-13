@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning Front End Development and Java.
 
-- 📫 How to reach me: [tizianoradicchi14@gmail.com](mailto:tizianoradicchi14@gmail.com)
-
 ----
 
 <p>
