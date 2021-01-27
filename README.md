@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Front End Development and Java.
+- 🌱 I’m currently learning Java.
 
 ----
 
