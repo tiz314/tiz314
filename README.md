@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 Currently IT high school student
+- 🚀 Space enthusiast
+
 ----
 
 <p>
