@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Currently IT high school student
-- 🚀 Space enthusiast
+- 🚀 Space and Cybersecurity enthusiast
 - 🔭 I’m currently working on <a href='https://freshsql.tiz314.tk/'>FreshSQL</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tiziano-radicchi/">LinkedIn</a>
 
