@@ -2,7 +2,6 @@
 
 - 🌱 Currently IT student
 - 🚀 Space and Cybersecurity enthusiast
-- 🔭 I’m currently working on <a href='https://freshsql.tiz314.it/'>FreshSQL</a> and SilentWeather (coming soon!)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tiziano-radicchi/">LinkedIn</a>
 
 ----
