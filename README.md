@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🌱 Currently IT student
+- ⚡ My last project: [FreshSQL](https://freshsql.tiz314.it) 
 - 🚀 Space and Cybersecurity enthusiast
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/tiziano-radicchi/">LinkedIn</a>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiziano-radicchi/)
 
 ----
 
