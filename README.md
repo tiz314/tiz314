@@ -5,12 +5,14 @@
 - 🚀 Space and Cybersecurity enthusiast
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiziano-radicchi/)
 
-----
+--- 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiz314&hide=stars&count_private=true&show_icons=true&theme=material-palenight" alt="tiz314's Github Stats">
-</p>
-
+<details>
+  <summary><b>My GitHub stats</b> ⚡</summary>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiz314&hide=stars&count_private=true&show_icons=true&theme=material-palenight" alt="tiz314's Github Stats">
+  </p>
+</details>
 <!--
 **tiz314/tiz314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
