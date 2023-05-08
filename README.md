@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Currently IT student
-- ⚡ My latest projects: [TuringMachine](https://github.com/tiz314/TuringMachine) and [FreshSQL](https://freshsql.tiz314.it)!
+- ⚡ My latest projects: [Weathly](https://weathly.tiz314.it), [TuringMachine](https://github.com/tiz314/TuringMachine) and [FreshSQL](https://freshsql.tiz314.it)!
 - 🚀 Space and Cybersecurity enthusiast
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiziano-radicchi/)
 
