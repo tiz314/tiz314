@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Currently CyberSec student
-- ⚡ My latest projects: [TuneMate](https://tunemate.tiz314.it) and [TuringMachine](https://github.com/tiz314/TuringMachine)!
+- ⚡ My latest projects: [FreshSQL](https://freshsql.tiz314.it) and [TuringMachine](https://github.com/tiz314/TuringMachine)!
 - 🚀 Space and Cybersecurity enthusiast
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiziano-radicchi/)
 
