@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Currently CyberSec student
-- ⚡ My latest projects: [FreshSQL](https://freshsql.tiz314.it) and [TuringMachine](https://github.com/tiz314/TuringMachine)!
+- ⚡ My latest projects: [DONE](https://github.com/IPoAC-SMT/DONE) and [smolASCON](https://github.com/tiz314/smolASCON)!
 - 🚀 Space and Cybersecurity enthusiast
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiziano-radicchi/)
 
